@@ -1,0 +1,39 @@
+
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f9f9f9;
+}
+
+h1 {
+  color: #2d3a4b;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.course {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  margin-bottom: 2rem;
+  padding: 1.5rem 2rem;
+  text-align: left;
+}
+
+h2 {
+  color: #4e7ad2;
+  margin-bottom: 1rem;
+}
+
+.total {
+  color: #1a7f5a;
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+}
+
+p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
